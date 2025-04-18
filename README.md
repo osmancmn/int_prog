@@ -1,2 +1,2 @@
-##### int_prog
+# int_prog
 proje ödevi
